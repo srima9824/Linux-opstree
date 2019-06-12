@@ -1,1 +1,32 @@
+Microsoft combines all the bits of Windows internally to produce each new release of Windows and distributes it as a single package. 
+If you want Windows, you’ll need to choose one of the versions Microsoft is offering.
+
+But Linux is an open source software.The Linux operating system isn’t produced by a single organization. Different organizations and 
+people work on different parts. There’s the Linux kernel (the core of the operating system), the GNU shell utilities (the terminal 
+interface and many of the commands you use), the X server (which produces a graphical desktop), the desktop environment (which runs on the X
+server to provide a graphical desktop), and more. System services, graphical programs, terminal commands – many are developed independently
+from another. They’re all open-source software distributed in source code form.
+
+If you wanted to, you could grab the source code for the Linux kernel, GNU shell utilities, Xorg X server, and every other program on 
+a Linux system, assembling it all yourself. However, compiling the software would take a lot of time – not to mention the work involved 
+with making all the different programs work properly together.
+
+Most distributions add their own finishing touches, such as themes and custom software – the Unity desktop environment 
+Ubuntu provides, for example.
+Example:
+Fedora
+RedHat
+Ubuntu
+CentOS
+Debian
+Slackware etc..
+
+WHAT IS A SHELL?
+A shell is a program that provides an interface between a user and an operating system (OS) kernel. 
+An OS starts a shell for each user when the user logs in or opens a terminal or console window.
+
+DIFFERENCE BETWEEN SHELL AND BASH:
+"Shell" is a program, which facilitates the interaction between the user and operating system (kernel). There are many shells available, 
+like sh, bash, csh, zsh...etc."Bash shell" scripting is, a kind of shell scripting only. You can say, its a subset of "shell" scripting.
+
 
